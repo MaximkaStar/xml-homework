@@ -1,0 +1,2 @@
+C:\Users\Максим\Desktop\Новая папка\xml\xml\obj\Debug\xml.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Новая папка\xml\xml\obj\Debug\xml.csproj.CoreCompileInputs.cache
